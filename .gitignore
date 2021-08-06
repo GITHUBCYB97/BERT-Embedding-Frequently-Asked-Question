@@ -1,0 +1,9 @@
+.idea*
+.vscode
+__pycache__
+nohup.out
+*.m
+log*.*
+search_model
+bert_vect
+model
